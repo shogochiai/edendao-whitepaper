@@ -1,4 +1,7 @@
 # edendao-whitepaper
+
+[PDF](https://github.com/shogochiai/edendao-whitepaper/blob/main/whitepaper.pdf)
+
 This project requires an unanimous consensus of the people.
 This is slow becuase it's not permissionless.
 So I leave this idea at large until at least the Web3.0 people notices.
